@@ -14,9 +14,9 @@ The dataset originates from the Hass Avocado Board - Category Data and provides 
 **Steps Followed:**
 
 **1. Understanding Problem:**
-We define the scope and objectives of our analysis to guide our exploration effectively.
+We define the scope and objectives of our analysis to guide our exploration effectively. \
 **2. Data Gathering and Transformation:**
-We preprocess the dataset, ensuring it is structured and ready for analysis.
+We preprocess the dataset, ensuring it is structured and ready for analysis. \
 **3. Dashboarding with Power BI Desktop:**
 Using Power BI Desktop, we create interactive dashboards to visualize and analyze avocado sales data, uncovering trends and patterns that provide valuable insights into the avocado industry.
 
